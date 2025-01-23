@@ -1,0 +1,16 @@
+Package: pplot
+Type: Package
+Title: Personalized Plotting
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Dita", "van Leeuwen",
+      email = "ditavleeuwen@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: This package contains a personalized plotting
+              aesthetic
+License: None
+Encoding: UTF-8
+LazyData: true
